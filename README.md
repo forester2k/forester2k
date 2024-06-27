@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forester2k
 - 👀 I’m interested in the study of programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Golang and a little Python
 
 <!---
 - 💞️ I’m looking to collaborate on ...
