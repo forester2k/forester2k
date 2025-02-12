@@ -20,7 +20,7 @@ A few words about myself.
 <ul><li>
 Email: <a href="mailto:forester@mail.ru">forester@mail.ru</a>
 </li><li>
-Telegram: <a href="https://t.me/stanislav_tik">@stanislav_tikk</a>
+Telegram: <a href="https://t.me/stanislav_tik">@stanislav_tik</a>
 </li><li>
 LinkedIn:  <a href="vwww.linkedin.com/in/forester2k">linkedin.com/in/forester2k</a>
 </li><li>
